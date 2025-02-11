@@ -176,4 +176,3 @@ import javax.swing.JOptionPane;
             new Puzzle();
         }
     }
-
